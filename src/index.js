@@ -4,15 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 //import { Aboutus } from './App';
-//x`import { Members } from './Members';
+//import { Members } from './Members';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-  
   <App />
-  
   </React.StrictMode>
 );
 

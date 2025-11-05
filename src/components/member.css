@@ -1,7 +1,8 @@
 .memberCard{
-  padding: 20px;
+  padding: 10px;
   background-color: orange;
   color:white;
+  width: 200px;
 }
 .member-sub-heading{
     color: blue;

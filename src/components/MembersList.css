@@ -1,0 +1,9 @@
+.members-container{
+  display: flex;
+  padding: 30px;
+  justify-content: flex-start;
+  gap: 30px;
+  flex-wrap: wrap;
+  height: 300px;
+  overflow:scroll;
+}
