@@ -1,6 +1,5 @@
 import './App.css';
 import Section from './components/Section';
-import { Members } from './components/Members';
 import Aboutus from './components/Aboutus';
 import Header from './components/Header';
 import MembersList from './components/Memberslist';
